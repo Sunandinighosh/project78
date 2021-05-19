@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(orange,yellow,red,pink);  
+}
+#family_img{
+    width: 290px;
+}
+button{
+    font-size: 27px;
+    background-color: blueviolet;
+    color: black;
+    border-radius: 20%;
+}
+h1{
+    font-size: 40px;
+    color: blue;
+    text-decoration:underline;
+}
+h3{
+    font-size: 30px;
+    color: coral;
+    font-weight: bold;
+    text-decoration: underline;
+}
